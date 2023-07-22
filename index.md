@@ -2,24 +2,15 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+<img src="index/我的照片 - 副本.png" class="floatpic" width="360" height="480" alt="我的照片 - 副本" style="zoom:67%;" />
 
-<br>
-
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
+Undergraduate, Zihan Cheng(程子涵)
+[Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/)
+**Supervisor:**Associate Professor [Yinghuan Shi](https://cs.nju.edu.cn/_upload/tpl/01/53/339/template339/index.htm)
 
 <br>
 
@@ -27,11 +18,9 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Artificial Intelligence
+- Semi-Supervised Learning
+- Medical Image Analysis
 
 <br>
 
@@ -39,12 +28,26 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- 即将在我的知乎专栏更新夏令营经验帖，敬请关注。
+- **June 2023：**Happy to be awarded the Outstanding student pacesetter of Nanjing University.
+- **October 2022：**Happy to be awarded the Yang Lanyun Leadership Talent Scholarship(￥5000).
+- **April 2022:** Honourable to become an intern in the [Reasoning and Learning Research Group](https://cs.nju.edu.cn/rl/index.htm), and is advised by Associate Professor [Yinghuan Shi](https://cs.nju.edu.cn/_upload/tpl/01/53/339/template339/index.htm).
 
 <br>
+
+---
+
+## Services
+
+- Teaching Assistant of Discrete Mathematics from Feb.2023 to Jun.2023
+- Reviewer for TMI
+- Editorial board member of 《Artificial Intelligence in Pockets - Medical Health》, which will be published this August.
+
+<br>
+
+---
+
+## Correspondence
+
+**Email**: czh@smail.nju.edu.cn/1433368350@qq.com
+**Address**: Zihan Cheng, National Key Laboratory for Novel Software Technology, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.
