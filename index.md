@@ -8,11 +8,11 @@ layout: page
 
 <img src="index/我的照片 - 副本.png" class="floatpic" width="360" height="480" alt="我的照片 - 副本" style="zoom:67%;" />
 
-Undergraduate, Zihan Cheng(程子涵)
-[Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/)
-**Supervisor:**Associate Professor [Yinghuan Shi](https://cs.nju.edu.cn/_upload/tpl/01/53/339/template339/index.htm)
 
-<br>
+
+Undergraduate, Zihan Cheng(程子涵)<br>
+[Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/)<br>
+**Supervisor:**Associate Professor [Yinghuan Shi](https://cs.nju.edu.cn/_upload/tpl/01/53/339/template339/index.htm)<br>
 
 ---
 
@@ -49,6 +49,6 @@ Undergraduate, Zihan Cheng(程子涵)
 
 ## Correspondence
 
-**Email**: czh@smail.nju.edu.cn/1433368350@qq.com  
+**Email**: czh@smail.nju.edu.cn/1433368350@qq.com<br>
 
 **Address**: Zihan Cheng, National Key Laboratory for Novel Software Technology, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing 210023, China.
