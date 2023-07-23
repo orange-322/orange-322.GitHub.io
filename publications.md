@@ -6,24 +6,17 @@ title: Publications
 
 # Publications
 
-Lastest Update: 23rd July 2023&nbsp;  
+Lastest Update: 23st July 2023&nbsp;  
 
-## Undergrad Thesis
+## Monograph
 
 - 
 
 ## Conference Paper
 
-- test)<br>**Han
+- (test)<br>**Zihan Cheng
 
 
----
 
-## Competition Paper
 
-- 
-
-## Working Manuscript
-
-- 
 

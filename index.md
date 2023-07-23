@@ -4,8 +4,6 @@ layout: page
 
 ## About Me
 
-
-
 <img src="index/我的照片 - 副本.png" class="floatpic" width="360" height="480" alt="我的照片 - 副本" style="zoom:67%;" />
 
 Undergraduate, Zihan Cheng(程子涵)<br>
